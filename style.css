@@ -1,0 +1,12 @@
+p.byline {
+	font-size: 24px;
+}
+
+p.headline {
+	font-size: 26px;
+}
+
+div.mainbody {
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	text-align: center;
+}
